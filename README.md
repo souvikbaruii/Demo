@@ -1,2 +1,3 @@
 # Demo
-Demo Project
+Demo repository
+Auther - Souvik Barui
